@@ -13,3 +13,7 @@ concurrency, and Unix/Linux internals. I develop reliable software in C, C++ and
 
 ## Certificates
 Google Cybersecurity Professional Certificate
+
+## Contributions
+
+[Public Contributions](https://github.com/search?q=is%3Apr+is%3Apublic+author%3AArchCipher+-user%3AArchCipher&type=pullrequests&query=is%3Apr+is%3Apublic+author%3AArchCipher+-user%3AArchCipher)
